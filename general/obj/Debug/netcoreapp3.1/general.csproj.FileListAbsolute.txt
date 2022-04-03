@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\General practice part-2\general\general\bin\Debug\netcoreapp3.1\general.exe
+C:\Users\nargi\Desktop\General practice part-2\general\general\bin\Debug\netcoreapp3.1\general.deps.json
+C:\Users\nargi\Desktop\General practice part-2\general\general\bin\Debug\netcoreapp3.1\general.runtimeconfig.json
+C:\Users\nargi\Desktop\General practice part-2\general\general\bin\Debug\netcoreapp3.1\general.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\General practice part-2\general\general\bin\Debug\netcoreapp3.1\general.dll
+C:\Users\nargi\Desktop\General practice part-2\general\general\bin\Debug\netcoreapp3.1\general.pdb
+C:\Users\nargi\Desktop\General practice part-2\general\general\obj\Debug\netcoreapp3.1\general.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\General practice part-2\general\general\obj\Debug\netcoreapp3.1\general.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\General practice part-2\general\general\obj\Debug\netcoreapp3.1\general.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\General practice part-2\general\general\obj\Debug\netcoreapp3.1\general.AssemblyInfo.cs
+C:\Users\nargi\Desktop\General practice part-2\general\general\obj\Debug\netcoreapp3.1\general.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\General practice part-2\general\general\obj\Debug\netcoreapp3.1\general.dll
+C:\Users\nargi\Desktop\General practice part-2\general\general\obj\Debug\netcoreapp3.1\general.pdb
+C:\Users\nargi\Desktop\General practice part-2\general\general\obj\Debug\netcoreapp3.1\general.genruntimeconfig.cache
